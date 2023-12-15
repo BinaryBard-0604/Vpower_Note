@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Alexa@2x.png</file>
+    </qresource>
+</RCC>
